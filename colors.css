@@ -1,0 +1,54 @@
+.fairy { 
+	color: pink;
+}
+.dragon {
+	color: purple;
+}    
+.water { 
+	color: blue;
+}
+.fire { 
+	color: red;
+}
+.electric {  
+	color: yellow;
+}
+.grass {  
+   color: green;
+}
+ .ground { 
+	color: #996600;
+}
+.ice { 
+color: white;
+}
+ .dark { 
+ color: black;
+ }
+ .rock {
+	 color: #663300;
+ }
+.fighting { 
+  color: #CC3300;
+}
+.flying { 
+  color: #7A7A52
+}
+ .normal { 
+   color: #E0E0D1;
+ }
+ .ghost { 
+    color: #4D1149;
+ }
+   .steel { 
+     color: grey;
+}
+.psychic { 
+  color: #BC095D;
+}
+.poison { 
+    color: purple;
+}
+.bug { 
+	color: #99FF99;
+}
